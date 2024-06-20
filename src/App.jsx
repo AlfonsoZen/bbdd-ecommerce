@@ -1,9 +1,17 @@
+import Nav from "./components/Nav/Nav.component"
+import Main from "./components/Main/Main.component"
+
+import "./index.css"
+
 const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline">
-      VaisStore
-    </h1>
-  )
+    <div className="bg-[#E7ECEF]">
+      <header className="h-screen">
+        <Nav />
+        <Main />
+      </header>
+    </div>
+    )
 }
 
 export default App
