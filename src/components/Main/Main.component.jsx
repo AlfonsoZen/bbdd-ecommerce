@@ -2,7 +2,7 @@ import World from "../World/World.component";
 
 const Main = () => {
     return(
-        <div className="bg-[#E7ECEF] h-[93%]">
+        <div className="bg-[#fff] h-[93%]">
             <div className="fixed my-[10%] p-5 flex justify-center flex-col text-[#272932] text-center">
                 <h2 className="text-4xl font-black">Los mejores 
                     <span className="text-[#D8A47F]"> Audífonos,</span> <br /> al mejor <br />
