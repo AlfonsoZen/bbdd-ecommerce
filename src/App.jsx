@@ -6,7 +6,7 @@ import "./index.css"
 const App = () => {
   return (
     <div className="bg-[#E7ECEF]">
-      <header className="h-screen">
+      <header>
         <Nav />
         <Main />
       </header>

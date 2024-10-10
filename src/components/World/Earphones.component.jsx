@@ -20,9 +20,9 @@ function Box() {
 
       <primitive
         object={earPhones.scene}
-        scale={.4}
+        scale={.47}
         rotation={[0,0,0]}
-        position={[0,-2.3,0]}
+        position={[0,-2.8,0]}
       />
     </mesh>
   )
