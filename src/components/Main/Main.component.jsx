@@ -17,7 +17,7 @@ const Main = () => {
 
                 <div>
                     <button className="absolute bottom-[9%] left-1/2 -translate-x-1/2 -translate-y-1/2 bg-[#0F7173] px-7 py-4 rounded-2xl text-[#E7ECEF] font-bold active:bg-[#272932] max-w-32">
-                        <p>Ver más</p>
+                        <a href="#products-section">Ver más</a>
                     </button>
                 </div>
             </div>
@@ -33,7 +33,7 @@ const Main = () => {
                     </div>
 
                     <button className="bg-[#0F7173] px-6 py-4 rounded-2xl text-[#E7ECEF] font-bold active:bg-[#272932] ml-[10%]">
-                        <p>Ver más</p>
+                        <a href="#products-section">Ver más</a>
                     </button>
                 </div>
 
