@@ -7,10 +7,10 @@ import "./index.css"
 const App = () => {
   return (
     <div className="bg-[#E7ECEF]">
-      <header>
+      {/* <header>
         <Nav />
         <Main />
-      </header>
+      </header> */}
       <section id="products-section">
         <ProductsContainer />
       </section>
